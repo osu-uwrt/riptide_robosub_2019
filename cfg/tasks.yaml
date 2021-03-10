@@ -1,5 +1,3 @@
-tasks: [
-  "gate",
-  "cutie",
-  "buoy"
-]
+- gate
+- cutie
+- buoy
